@@ -212,15 +212,15 @@ timeline
 
 <div align="center">
 
-| 🎯 Technology                   | 📈 Proficiency                                   |
-| ------------------------------- | ------------------------------------------------ |
-| **Agentic AI & LLMs**           | ![95%](https://progress-bar.dev/95?color=00d9ff) |
-| **LangChain/LangGraph**         | ![90%](https://progress-bar.dev/90?color=00d9ff) |
-| **Multi-Cloud (AWS/Azure/GCP)** | ![85%](https://progress-bar.dev/85?color=00d9ff) |
-| **Python Development**          | ![90%](https://progress-bar.dev/90?color=00d9ff) |
-| **DSA & Problem Solving**       | ![80%](https://progress-bar.dev/80?color=00d9ff) |
-| **Full Stack Development**      | ![75%](https://progress-bar.dev/75?color=00d9ff) |
-| **DevOps & Docker**             | ![70%](https://progress-bar.dev/70?color=00d9ff) |
+| 🎯 Technology                   | 📈 Proficiency              |
+| ------------------------------- | --------------------------- |
+| **Agentic AI & LLMs**           | `████████████████████░` 95% |
+| **LangChain/LangGraph**         | `██████████████████░░` 90%  |
+| **Multi-Cloud (AWS/Azure/GCP)** | `█████████████████░░░` 85%  |
+| **Python Development**          | `██████████████████░░` 90%  |
+| **DSA & Problem Solving**       | `████████████████░░░░` 80%  |
+| **Full Stack Development**      | `███████████████░░░░░` 75%  |
+| **DevOps & Docker**             | `██████████████░░░░░░` 70%  |
 
 </div>
 
