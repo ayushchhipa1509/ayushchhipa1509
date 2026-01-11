@@ -178,10 +178,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushchhipa1509&theme=tokyonight&show_icons=true&count_private=true&line_height=27&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchhipa1509&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushchhipa1509&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchhipa1509&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchhipa1509&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top Languages" width="49%" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchhipa1509&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
 
