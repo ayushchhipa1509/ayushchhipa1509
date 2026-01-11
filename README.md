@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header Banner](Assets/banner.png)
+<img src="Assets/banner.png" alt="Header Banner" width="100%" height="200" style="object-fit: cover;">
 
 <a href="https://github.com/ayushchhipa1509"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&width=500&height=50&lines=AI+Engineer;LLM+%26+Agentic+AI+Expert;Multi-Cloud+Architect;Full+Stack+Developer;Building+Intelligent+Systems" alt="Typing SVG" /></a>
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=ayushchhipa1509&label=Profile%20Views&color=00d9ff&pretty=true)](https://github.com/ayushchhipa1509)
+![Profile Views](https://komarev.com/ghpvc/?username=ayushchhipa1509&label=Profile%20Views&color=00d9ff&style=for-the-badge)
 
 </div>
 
@@ -178,11 +178,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushchhipa1509&theme=tokyonight&show_icons=true&count_private=true&line_height=27&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayushchhipa1509&theme=tokyonight&show_icons=true&count_private=true&line_height=27&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchhipa1509&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushchhipa1509&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchhipa1509&theme=tokyonight&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushchhipa1509&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&cache_seconds=1800" alt="Top Languages" width="49%" />
 
 </div>
 
